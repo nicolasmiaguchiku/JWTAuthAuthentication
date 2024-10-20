@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "P1A7b+O74O9CnC8UvnTQYo6sfoPIUl3tmA3cpSUxFcA=",
+  "Source": "JWTAuthAuthentication",
+  "BasePath": "_content/JWTAuthAuthentication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
