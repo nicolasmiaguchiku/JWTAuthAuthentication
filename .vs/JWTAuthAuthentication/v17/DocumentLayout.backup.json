@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\nicol\\OneDrive\\\u00C1rea de Trabalho\\JWTAuthAuthentication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A887FDC3-7FAE-4B48-988C-52BA7F9037C9}|JWTAuthAuthentication.csproj|c:\\users\\nicol\\onedrive\\\u00E1rea de trabalho\\jwtauthauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A887FDC3-7FAE-4B48-988C-52BA7F9037C9}|JWTAuthAuthentication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A887FDC3-7FAE-4B48-988C-52BA7F9037C9}|JWTAuthAuthentication.csproj|c:\\users\\nicol\\onedrive\\\u00E1rea de trabalho\\jwtauthauthentication\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A887FDC3-7FAE-4B48-988C-52BA7F9037C9}|JWTAuthAuthentication.csproj|solutionrelative:services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A887FDC3-7FAE-4B48-988C-52BA7F9037C9}|JWTAuthAuthentication.csproj|c:\\users\\nicol\\onedrive\\\u00E1rea de trabalho\\jwtauthauthentication\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A887FDC3-7FAE-4B48-988C-52BA7F9037C9}|JWTAuthAuthentication.csproj|solutionrelative:settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A887FDC3-7FAE-4B48-988C-52BA7F9037C9}|JWTAuthAuthentication.csproj|c:\\users\\nicol\\onedrive\\\u00E1rea de trabalho\\jwtauthauthentication\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A887FDC3-7FAE-4B48-988C-52BA7F9037C9}|JWTAuthAuthentication.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A887FDC3-7FAE-4B48-988C-52BA7F9037C9}|JWTAuthAuthentication.csproj|c:\\users\\nicol\\onedrive\\\u00E1rea de trabalho\\jwtauthauthentication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A887FDC3-7FAE-4B48-988C-52BA7F9037C9}|JWTAuthAuthentication.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A887FDC3-7FAE-4B48-988C-52BA7F9037C9}|JWTAuthAuthentication.csproj|c:\\users\\nicol\\onedrive\\\u00E1rea de trabalho\\jwtauthauthentication\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A887FDC3-7FAE-4B48-988C-52BA7F9037C9}|JWTAuthAuthentication.csproj|solutionrelative:services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A887FDC3-7FAE-4B48-988C-52BA7F9037C9}|JWTAuthAuthentication.csproj|c:\\users\\nicol\\onedrive\\\u00E1rea de trabalho\\jwtauthauthentication\\services\\securityservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A887FDC3-7FAE-4B48-988C-52BA7F9037C9}|JWTAuthAuthentication.csproj|solutionrelative:services\\securityservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A887FDC3-7FAE-4B48-988C-52BA7F9037C9}|JWTAuthAuthentication.csproj|c:\\users\\nicol\\onedrive\\\u00E1rea de trabalho\\jwtauthauthentication\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A887FDC3-7FAE-4B48-988C-52BA7F9037C9}|JWTAuthAuthentication.csproj|solutionrelative:services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A887FDC3-7FAE-4B48-988C-52BA7F9037C9}|JWTAuthAuthentication.csproj|c:\\users\\nicol\\onedrive\\\u00E1rea de trabalho\\jwtauthauthentication\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A887FDC3-7FAE-4B48-988C-52BA7F9037C9}|JWTAuthAuthentication.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A887FDC3-7FAE-4B48-988C-52BA7F9037C9}|JWTAuthAuthentication.csproj|c:\\users\\nicol\\onedrive\\\u00E1rea de trabalho\\jwtauthauthentication\\interfaces\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,20 +27,8 @@
       "RelativeMoniker": "D:0:0:{A887FDC3-7FAE-4B48-988C-52BA7F9037C9}|JWTAuthAuthentication.csproj|solutionrelative:context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A887FDC3-7FAE-4B48-988C-52BA7F9037C9}|JWTAuthAuthentication.csproj|c:\\users\\nicol\\onedrive\\\u00E1rea de trabalho\\jwtauthauthentication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A887FDC3-7FAE-4B48-988C-52BA7F9037C9}|JWTAuthAuthentication.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A887FDC3-7FAE-4B48-988C-52BA7F9037C9}|JWTAuthAuthentication.csproj|c:\\users\\nicol\\onedrive\\\u00E1rea de trabalho\\jwtauthauthentication\\validations\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A887FDC3-7FAE-4B48-988C-52BA7F9037C9}|JWTAuthAuthentication.csproj|solutionrelative:validations\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A887FDC3-7FAE-4B48-988C-52BA7F9037C9}|JWTAuthAuthentication.csproj|c:\\users\\nicol\\onedrive\\\u00E1rea de trabalho\\jwtauthauthentication\\models\\createuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A887FDC3-7FAE-4B48-988C-52BA7F9037C9}|JWTAuthAuthentication.csproj|solutionrelative:models\\createuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A887FDC3-7FAE-4B48-988C-52BA7F9037C9}|JWTAuthAuthentication.csproj|c:\\users\\nicol\\onedrive\\\u00E1rea de trabalho\\jwtauthauthentication\\interfaces\\isecurityservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A887FDC3-7FAE-4B48-988C-52BA7F9037C9}|JWTAuthAuthentication.csproj|solutionrelative:interfaces\\isecurityservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A887FDC3-7FAE-4B48-988C-52BA7F9037C9}|JWTAuthAuthentication.csproj|c:\\users\\nicol\\onedrive\\\u00E1rea de trabalho\\jwtauthauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A887FDC3-7FAE-4B48-988C-52BA7F9037C9}|JWTAuthAuthentication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -63,114 +43,80 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\\u00C1rea de Trabalho\\JWTAuthAuthentication\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\nicol\\OneDrive\\\u00C1rea de Trabalho\\JWTAuthAuthentication\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T01:28:52.67Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TokenService.cs",
-              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\\u00C1rea de Trabalho\\JWTAuthAuthentication\\Services\\TokenService.cs",
-              "RelativeDocumentMoniker": "Services\\TokenService.cs",
-              "ToolTip": "C:\\Users\\nicol\\OneDrive\\\u00C1rea de Trabalho\\JWTAuthAuthentication\\Services\\TokenService.cs",
-              "RelativeToolTip": "Services\\TokenService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAUwB8AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T03:33:18.281Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Settings.cs",
-              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\\u00C1rea de Trabalho\\JWTAuthAuthentication\\Settings.cs",
-              "RelativeDocumentMoniker": "Settings.cs",
-              "ToolTip": "C:\\Users\\nicol\\OneDrive\\\u00C1rea de Trabalho\\JWTAuthAuthentication\\Settings.cs*",
-              "RelativeToolTip": "Settings.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T03:30:35.866Z",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\\u00C1rea de Trabalho\\JWTAuthAuthentication\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\\u00C1rea de Trabalho\\JWTAuthAuthentication\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T19:52:54.458Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "UserServices.cs",
-              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\\u00C1rea de Trabalho\\JWTAuthAuthentication\\Services\\UserServices.cs",
-              "RelativeDocumentMoniker": "Services\\UserServices.cs",
-              "ToolTip": "C:\\Users\\nicol\\OneDrive\\\u00C1rea de Trabalho\\JWTAuthAuthentication\\Services\\UserServices.cs",
-              "RelativeToolTip": "Services\\UserServices.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T01:28:24.917Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Report.cs",
-              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\\u00C1rea de Trabalho\\JWTAuthAuthentication\\Validations\\Report.cs",
-              "RelativeDocumentMoniker": "Validations\\Report.cs",
-              "ToolTip": "C:\\Users\\nicol\\OneDrive\\\u00C1rea de Trabalho\\JWTAuthAuthentication\\Validations\\Report.cs",
-              "RelativeToolTip": "Validations\\Report.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T01:00:48.972Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SecurityServices.cs",
-              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\\u00C1rea de Trabalho\\JWTAuthAuthentication\\Services\\SecurityServices.cs",
-              "RelativeDocumentMoniker": "Services\\SecurityServices.cs",
-              "ToolTip": "C:\\Users\\nicol\\OneDrive\\\u00C1rea de Trabalho\\JWTAuthAuthentication\\Services\\SecurityServices.cs",
-              "RelativeToolTip": "Services\\SecurityServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T00:46:59.668Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "IUserServices.cs",
               "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\\u00C1rea de Trabalho\\JWTAuthAuthentication\\Interfaces\\IUserServices.cs",
               "RelativeDocumentMoniker": "Interfaces\\IUserServices.cs",
               "ToolTip": "C:\\Users\\nicol\\OneDrive\\\u00C1rea de Trabalho\\JWTAuthAuthentication\\Interfaces\\IUserServices.cs",
               "RelativeToolTip": "Interfaces\\IUserServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T00:39:35.626Z"
+              "WhenOpened": "2024-10-26T00:41:50.898Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\\u00C1rea de Trabalho\\JWTAuthAuthentication\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\nicol\\OneDrive\\\u00C1rea de Trabalho\\JWTAuthAuthentication\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\\u00C1rea de Trabalho\\JWTAuthAuthentication\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\\u00C1rea de Trabalho\\JWTAuthAuthentication\\Services\\TokenService.cs",
+              "RelativeToolTip": "Services\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T02:55:17.613Z"
+              "WhenOpened": "2024-10-25T00:17:56.09Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\\u00C1rea de Trabalho\\JWTAuthAuthentication\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\\u00C1rea de Trabalho\\JWTAuthAuthentication\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwCkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T21:58:57.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\\u00C1rea de Trabalho\\JWTAuthAuthentication\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "Services\\UserServices.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\\u00C1rea de Trabalho\\JWTAuthAuthentication\\Services\\UserServices.cs",
+              "RelativeToolTip": "Services\\UserServices.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T21:42:26.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\\u00C1rea de Trabalho\\JWTAuthAuthentication\\Context\\DataContext.cs",
               "RelativeDocumentMoniker": "Context\\DataContext.cs",
               "ToolTip": "C:\\Users\\nicol\\OneDrive\\\u00C1rea de Trabalho\\JWTAuthAuthentication\\Context\\DataContext.cs",
               "RelativeToolTip": "Context\\DataContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T02:55:25.754Z"
+              "WhenOpened": "2024-10-21T21:32:24.502Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -180,34 +126,10 @@
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\nicol\\OneDrive\\\u00C1rea de Trabalho\\JWTAuthAuthentication\\Controllers\\UserController.cs",
               "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T02:28:56.147Z",
+              "WhenOpened": "2024-10-20T07:24:33.581Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CreateUser.cs",
-              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\\u00C1rea de Trabalho\\JWTAuthAuthentication\\Models\\CreateUser.cs",
-              "RelativeDocumentMoniker": "Models\\CreateUser.cs",
-              "ToolTip": "C:\\Users\\nicol\\OneDrive\\\u00C1rea de Trabalho\\JWTAuthAuthentication\\Models\\CreateUser.cs",
-              "RelativeToolTip": "Models\\CreateUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T02:55:13.875Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ISecurityServices.cs",
-              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\\u00C1rea de Trabalho\\JWTAuthAuthentication\\Interfaces\\ISecurityServices.cs",
-              "RelativeDocumentMoniker": "Interfaces\\ISecurityServices.cs",
-              "ToolTip": "C:\\Users\\nicol\\OneDrive\\\u00C1rea de Trabalho\\JWTAuthAuthentication\\Interfaces\\ISecurityServices.cs",
-              "RelativeToolTip": "Interfaces\\ISecurityServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T02:54:55.378Z"
             }
           ]
         }

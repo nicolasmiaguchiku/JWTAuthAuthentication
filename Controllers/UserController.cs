@@ -2,7 +2,8 @@
 using JWTAuthAuthentication.Models;
 using JWTAuthAuthentication.Services;
 using JWTAuthAuthentication.Interfaces;
-using JWTAuthAuthentication.Validations;
+using Microsoft.AspNetCore.Authorization;
+
 
 namespace JWTAuthAuthentication.Controllers
 {
@@ -18,15 +19,27 @@ namespace JWTAuthAuthentication.Controllers
             _userServices = userServices;
         }
 
-        [HttpGet("teste")]
+        [HttpGet]
+        [Route("Teste")]
         public IActionResult Teste()
         {
             return Ok("Hello World");
         }
 
         [HttpPost]
+        [Route("CreateUser")]
+        [Authorize(Roles = "admin")]
         public async Task<IActionResult> CreateUser([FromBody] CreateUser newUser)
         {
+            if (!User.Identity.IsAuthenticated)
+            {
+                return Unauthorized(new { Message = "Necessária a autenticação" });
+            }
+
+            if (!User.IsInRole("admin"))
+            {
+                return Unauthorized(new { Message = "Usuário não autorizado" });
+            }
 
             var report = await _userServices.CreateUser(newUser);
             if (report.Message == "Usuario criado com sucesso")
@@ -40,7 +53,8 @@ namespace JWTAuthAuthentication.Controllers
         }
 
 
-        [HttpPost("login")]
+        [HttpPost]
+        [Route("Login")]
         public async Task<IActionResult> Login([FromBody] UserLogin credentials)
         {
             var user = await _userServices.AuthenticateUser(credentials.Email, credentials.Password);
@@ -50,8 +64,15 @@ namespace JWTAuthAuthentication.Controllers
             }
 
             var token = TokenService.GenerateToken(user);
-            return Ok(new { token });
+
+            return Ok(new
+            {
+                name = user.Name,
+                role = user.Role,
+                token
+            });
 
         }
     }
 }
+

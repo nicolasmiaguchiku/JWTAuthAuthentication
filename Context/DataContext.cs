@@ -18,7 +18,12 @@ namespace JWTAuthAuthentication.Context
                 c.Property(p => p.Name).HasMaxLength(128).IsRequired();
                 c.Property(p => p.Email).HasMaxLength(128).IsRequired();
                 c.Property(p => p.PasswordHash).HasMaxLength(128).IsRequired();
+                c.Property(p => p.Role).HasMaxLength(30).IsRequired();
             });
+
+            modelBuilder.Entity<User>().HasData(
+                new User { Id = 1, Name = "Nicolas",Email= "nicolaseeisuke@gmail.com", PasswordHash = BCrypt.Net.BCrypt.HashPassword("admin"), Role = "admin" }
+            );
         }
     }
 }

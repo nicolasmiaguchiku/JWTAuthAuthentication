@@ -42,7 +42,7 @@ namespace JWTAuthAuthentication.Services
                 Name = newUser.Name,
                 Email = newUser.Email,
                 PasswordHash = PasswordEncrypted,
-                Role = "User"
+                Role = newUser.Role
             };
 
             _context.Add(User);

@@ -3,6 +3,7 @@ using JWTAuthAuthentication.Context;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -10,9 +11,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace JWTAuthAuthentication.Migrations
 {
     [DbContext(typeof(DataContext))]
-    partial class DataContextModelSnapshot : ModelSnapshot
+    [Migration("20241021213618_correcaoDeCriacaoTabela")]
+    partial class correcaoDeCriacaoTabela
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -57,8 +60,8 @@ namespace JWTAuthAuthentication.Migrations
                             Id = 1,
                             Email = "nicolaseeisuke@gmail.com",
                             Name = "Nicolas",
-                            PasswordHash = "$2a$11$OLNgAqLGAqKN5qHKQ.xw9Ox2FNEhtp/7j9oJRX07UxIIl.7xmrli.",
-                            Role = "admin"
+                            PasswordHash = "$2a$11$n9B4/W8NZ8lkn9ymlLDUae6O3q4LeQyG2yWwb7uatkhUhY0trMiBS",
+                            Role = "Admin"
                         });
                 });
 #pragma warning restore 612, 618

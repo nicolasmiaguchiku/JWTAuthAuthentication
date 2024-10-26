@@ -8,6 +8,7 @@ using Microsoft.IdentityModel.Tokens;
 using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
+builder.Configuration.AddJsonFile("appsettings.json", optional: false, reloadOnChange: true);
 
 // Add services to the container.
 builder.Services.AddDbContext<DataContext>(options =>
@@ -23,24 +24,29 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<IUserServices, UserServices>();
 builder.Services.AddScoped<ISecurityService, SecurityServices>();
 
-var key = Encoding.ASCII.GetBytes(Settings.Secret);
+var key = Encoding.UTF8.GetBytes(Settings.Secret);
 builder.Services.AddAuthentication(x =>
 {
     x.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
     x.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
-}).AddJwtBearer(options =>
+})
+.AddJwtBearer(options =>
 {
     options.TokenValidationParameters = new TokenValidationParameters
     {
-        ValidateIssuer = true,
-        ValidateAudience = true,
+        ValidateIssuer = false,
+        ValidateAudience = false,
         ValidateLifetime = true,
         ValidateIssuerSigningKey = true,
-        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Settings.Secret))
+        IssuerSigningKey = new SymmetricSecurityKey(key)
     };
 });
 
-builder.Services.AddControllers();
+builder.Services.AddControllers(options =>
+{
+    options.Filters.Add<JWTAuthAuthentication.Exceptions.UnauthorizedExceptionFilter>();
+});
+
 
 var app = builder.Build();
 
